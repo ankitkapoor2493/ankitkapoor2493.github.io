@@ -278,6 +278,10 @@ button {
     height: 15%;
 }
 
+#bottom-navigation-container {
+    height: 13%;
+}
+
 #allah {
     width: 19%;
 }
@@ -307,6 +311,6 @@ button {
     }
 #mela-button {
   font-size: 3.3vw;
-  top: 18%;
+  top: 12%;
 }
 }
