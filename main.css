@@ -283,8 +283,10 @@ button {
 }
 
 #allah {
-    width: 19%;
+    width: 22%;
 }
+
+
 
 .navigation-items {
     font-size: 2.5vw;
@@ -307,10 +309,26 @@ button {
 }
 
 #navigation-list {
-      width: 71%;
+      width: 80%;
     }
+
+.navigation-items {
+  font-size:  3vw;
+}
+
 #mela-button {
   font-size: 3.3vw;
   top: 12%;
+}
+
+#head-label-peer {
+  font-size: 2.24vw;
+}
+#head-label-dargah {
+  font-size: 4vw;
+}
+
+#logo {
+    width: 21%;
 }
 }
