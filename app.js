@@ -16,7 +16,7 @@ var logo;
       });
 
       var gallery = document.getElementById('gallery');
-		for (var i = 0; i < 52; i++) {
+		for (var i = 0; i < 53; i++) {
 			gallery.append(img_create("./assets/gallery/IMG"+i+".jpg"));
 		}
 		jQuery("#gallery").unitegallery({
